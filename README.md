@@ -32,8 +32,8 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
-✉️ Email: your.email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-krishna-7229a3260/)  
+✉️ Email: vaibhavkrishna0709@gmail.com
 
 
 <!--
