@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Vaibhav6802383/Vaibhav6802383/blob/main/Vaibhav_Krishna.png" alt="banner" width="100%">
+</p>
+
 ## Hi there 👋<h1 align="center">Hi, I'm Vaibhav 👋</h1>
 
 <p align="center">
