@@ -68,6 +68,7 @@
 <details>
 
 <summary>💡 Quick Facts About Me</summary>
+
 - 🇮🇳 I'm a tech-savvy student from India, passionate about software development.
 - 🌱 Currently learning **System Design**, strengthening **DSA**, and exploring **full-stack development**.
 - 💻 Most comfortable with **Python**, **C++**, **HTML/CSS**, and **JavaScript**.
@@ -75,6 +76,7 @@
 - 📚 I balance academics with self-learning through open-source, coding platforms, and YouTube/online courses.
 - 🧠 I believe in continuous learning, consistency, and getting 1% better every day.
 - ⚡ Fun Fact: I enjoy late-night debugging marathons and chai-fueled coding sessions ☕💻
+  
 </details>
 
 
