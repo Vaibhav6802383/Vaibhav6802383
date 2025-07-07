@@ -7,8 +7,8 @@
   💻 Passionate about Python, Web Development & DSA <br>
   📚 Learning System Design | Building Real-World Projects | 
 </p>
-
 ---
+
 
 ### 🧰 Tech Stack
 
@@ -47,6 +47,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav6802383&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav6802383&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Vaibhav6802383&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,8 +66,8 @@
 ---
 
 <details>
-<summary>💡 Quick Facts About Me</summary>
 
+<summary>💡 Quick Facts About Me</summary>
 - 🇮🇳 I'm a tech-savvy student from India, passionate about software development.
 - 🌱 Currently learning **System Design**, strengthening **DSA**, and exploring **full-stack development**.
 - 💻 Most comfortable with **Python**, **C++**, **HTML/CSS**, and **JavaScript**.
@@ -74,7 +75,7 @@
 - 📚 I balance academics with self-learning through open-source, coding platforms, and YouTube/online courses.
 - 🧠 I believe in continuous learning, consistency, and getting 1% better every day.
 - ⚡ Fun Fact: I enjoy late-night debugging marathons and chai-fueled coding sessions ☕💻
-
 </details>
+
 
 
