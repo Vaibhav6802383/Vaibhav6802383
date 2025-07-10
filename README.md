@@ -7,7 +7,7 @@
   💻 Passionate about Python, Web Development & DSA <br>
   📚 Learning System Design | Building Real-World Projects | 
 </p>
----
+
 
 
 ### 🧰 Tech Stack
@@ -26,7 +26,7 @@
 
 </div>
 
----
+
 
 ### 🚀 Featured Projects
 
@@ -40,7 +40,7 @@
 | 🔒 [Random Password Generator](https://github.com/Vaibhav6802383/Password-Generator) | C++ based password generator CLI tool. |
 | 🎨 [Shapes Area Calculator](https://github.com/Vaibhav6802383/Area-of-Shapes) | C++ program to calculate area of various 2D shapes. |
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -50,7 +50,7 @@
   <img src="https://streak-stats.demolab.com?user=Vaibhav6802383&theme=radical" alt="GitHub Streak" />
 </p>
 
----
+
 
 ### 📫 Connect with Me
 
@@ -63,7 +63,7 @@
   </a>
 </p>
 
----
+
 
 <details>
 
